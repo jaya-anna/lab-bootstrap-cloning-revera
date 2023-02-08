@@ -1,0 +1,18 @@
+.link-recent {
+  text-decoration: none;
+  color: black;
+}
+
+#bottom {
+  padding: 20px 0px 40px 0px;
+  background: #3b3b3b;
+  border-top: 5px solid #ed564b;
+  color: white;
+}
+
+.red-bgr {
+  padding: 40px 0px;
+  background: #ed564b;
+  border-top: 5px solid #f96b61;
+  border-bottom: 5px solid #f96b61;
+}
